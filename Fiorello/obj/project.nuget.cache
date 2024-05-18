@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uC4DdRZkLH8UxBCV2tkoPl2kZ+ubq9E/KmExZZD23t6swDIzbGcJQsIQpxIgHyIjYj37o/AEN/r6crGbIuJgNA==",
+  "dgSpecHash": "0cHBVJIXN4Wi9L9aHeiWfhB5YqDq9SZ1tAyktkqF5leKYHogZKhFS5FWJSt4hqnJeDLODdWD0KkpmXfTzAYHBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tofiq\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj",
+  "projectFilePath": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\Fiorello.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tofiq\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\tofiq\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

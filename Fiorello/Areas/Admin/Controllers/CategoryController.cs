@@ -31,13 +31,53 @@ namespace Fiorello.Areas.Admin.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create(Category category)
+        public async Task<IActionResult> Create(CategoryCreateVM categoryVM)
         {
-            if (!ModelState.IsValid)
+            if (!ModelState.IsValid) return View();
+            bool result = await _context.Categories.AnyAsync(x => x.Name.Trim().ToLower() == categoryVM.Name.Trim().ToLower());
+
+            if (result)
             {
-                return View();
+                ModelState.AddModelError("Name", "This Name Does Exist");
+                return View(categoryVM);
             }
-            await _context.Categories.AddAsync(category);
+            CategoryCreateVM model = new()
+            {
+                Name = categoryVM.Name
+            };
+            await _context.Categories.AddAsync(new Category { Name = categoryVM.Name });
+
+            await _context.SaveChangesAsync();
+
+            return RedirectToAction(nameof(Index));
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Update(int id)
+        {
+            if (id <= 0) return BadRequest();
+            Category category = await _context.Categories.FirstOrDefaultAsync(s => s.Id == id);
+
+            CategoryUpdateVM model = new()
+            {
+                Name = category.Name
+            };
+
+            return View(model);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Update(CategoryUpdateVM categoryVM, int id)
+        {
+            if (!ModelState.IsValid) return BadRequest();
+            Category category = await _context.Categories.FirstOrDefaultAsync(s => s.Id == id);
+            if (category is null)
+            {
+                return NotFound();
+            }
+
+            category.Name = categoryVM.Name;
 
             await _context.SaveChangesAsync();
 

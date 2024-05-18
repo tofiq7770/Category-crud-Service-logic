@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tofiq\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj": {}
+    "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\Fiorello.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tofiq\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj": {
+    "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\Fiorello.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tofiq\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj",
+        "projectUniqueName": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\Fiorello.csproj",
         "projectName": "Fiorello",
-        "projectPath": "C:\\Users\\tofiq\\Desktop\\Fiorello\\Fiorello\\Fiorello.csproj",
+        "projectPath": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\Fiorello.csproj",
         "packagesPath": "C:\\Users\\tofiq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tofiq\\Desktop\\Fiorello\\Fiorello\\obj\\",
+        "outputPath": "C:\\Users\\tofiq\\Desktop\\Category crud, Service logic\\Fiorello\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -8,81 +8,85 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Fiorello
 build_property.RootNamespace = Fiorello
-build_property.ProjectDir = C:\Users\tofiq\Desktop\Fiorello\Fiorello\
+build_property.ProjectDir = C:\Users\tofiq\Desktop\Category crud, Service logic\Fiorello\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\tofiq\Desktop\Fiorello\Fiorello
+build_property.MSBuildProjectDirectory = C:\Users\tofiq\Desktop\Category crud, Service logic\Fiorello
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Areas/Admin/Views/Category/Create.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Areas/Admin/Views/Category/Detail.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/Category/Detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Areas/Admin/Views/Category/Index.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Blog/Index.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Blog/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Home/Index.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Product/Index.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Shared/_BlogsPartial.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Shared/_BlogsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9CbG9nc1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Shared/_DetailLayout.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Shared/_DetailLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EZXRhaWxMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Shared/_FooterPartial.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Shared/_FooterPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Shared/_HeaderPartial.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Shared/_HeaderPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXJQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Shared/_ProductsPartial.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Shared/_ProductsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Qcm9kdWN0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/_ViewImports.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/_ViewStart.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tofiq/Desktop/Fiorello/Fiorello/Views/Shared/_Layout.cshtml]
+[C:/Users/tofiq/Desktop/Category crud\, Service logic/Fiorello/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u0448y2jvl
